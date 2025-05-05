@@ -3,3 +3,5 @@ def hello(Name):
 
 hello('Илья')
 hello('Никита')
+
+print(10+19)
