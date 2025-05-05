@@ -5,3 +5,8 @@ hello('Илья')
 hello('Никита')
 
 print(10+19)
+print(10+19)
+print(10+19)
+print(10+19)
+print(10+19)
+print(10+19)
